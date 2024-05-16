@@ -1,4 +1,4 @@
-🎶🎵 **Projeto Laço de Repetição For - Adição de Tipos de Música** 🎵🎶
+# 🎶🎵 Projeto Laço de Repetição For - Adição de Tipos de Música🎵🎶
 
 Bem-vindo ao meu projeto de implementação de um laço de repetição **for** em JavaScript! Este projeto inclui uma melhoria no código existente, onde mais três tipos de música são adicionados à lista de opções no meu projeto quis adquirir mais que 3 opcões.
 
@@ -31,5 +31,6 @@ produzido por Luamy Alves Gama.
 
 # 🎉 linkedin
 Este projeto será documentado no LinkedIn para compartilhar meu trabalho e experiência com a comunidade.
+[Meu.linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
 
 Divirta-se explorando os diferentes tipos de música disponíveis!
