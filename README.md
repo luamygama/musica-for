@@ -15,8 +15,8 @@ O elemento HTML select (<select>) representa um controle que apresenta um menu d
 Resumindo, o elemento <select> é usado para criar menus suspensos de opções em páginas da web, enquanto o método addEventListener() em JavaScript é usado para adicionar interatividade aos elementos HTML.
 
 ## Fontes: 
-[https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener]
-[https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/select]
+[addEventListener](https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener)  
+[select](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/select)
 
 🎵 **Adição de Tipos de Música:**
 
