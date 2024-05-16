@@ -8,16 +8,27 @@ Este projeto consiste em implementar um laço de repetição **for** em JavaScri
 
 💻 **Explicação do Código:**
 
-- **Função `howMany(selectObject)`:** Esta função recebe um elemento `<select>` como parâmetro e conta o número de opções selecionadas nele. Utiliza um laço `for` para iterar sobre todas as opções, verificando se cada uma está selecionada e incrementando um contador.
+O elemento HTML select (<select>) representa um controle que apresenta um menu de opções. As opções dentro do menu são representadas pelo elemento <option>, que podem ser agrupados por elementos <optgroup>. As opções podem ser pré-selecionadas para o usuário.
 
-- **Adição de Evento de Clique ao Botão:** Adiciona um ouvinte de evento para o evento de clique em um botão. Quando o botão é clicado, a função `howMany` é chamada para contar o número de opções selecionadas e exibir o resultado em um alerta.
+- addEventListener() registra uma única espera de evento em um único alvo. O alvo do evento pode ser um único elemento em um documento, o documento em si, uma janela, ou um XMLHttpRequest.
+
+Resumindo, o elemento <select> é usado para criar menus suspensos de opções em páginas da web, enquanto o método addEventListener() em JavaScript é usado para adicionar interatividade aos elementos HTML.
+
+## Fontes: [https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener]
+[https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/select]
 
 🎵 **Adição de Tipos de Música:**
 
 No meu projeto coloquei mais que 3  tipos de música foram adicionados à lista existente de opções no menu suspenso. Isso amplia a variedade de escolhas disponíveis para o usuário.
 
+## Ilustração do meu projeto
+![musica-for](img/for.png)
+
 📝 **Autora**
 
 produzido por Luamy Alves Gama.
+
+# 🎉 linkedin
+Este projeto será documentado no LinkedIn para compartilhar meu trabalho e experiência com a comunidade.
 
 Divirta-se explorando os diferentes tipos de música disponíveis!
