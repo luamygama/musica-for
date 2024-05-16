@@ -8,11 +8,11 @@ Este projeto consiste em implementar um laço de repetição **for** em JavaScri
 
 💻 **Explicação do Código:**
 
-O elemento HTML select (<select>) representa um controle que apresenta um menu de opções. As opções dentro do menu são representadas pelo elemento <option>, que podem ser agrupados por elementos <optgroup>. As opções podem ser pré-selecionadas para o usuário.
+**- O elemento HTML select (<select>) representa um controle que apresenta um menu de opções. As opções dentro do menu são representadas pelo elemento <option>, que podem ser agrupados por elementos <optgroup>. As opções podem ser pré-selecionadas para o usuário.**
 
-- addEventListener() registra uma única espera de evento em um único alvo. O alvo do evento pode ser um único elemento em um documento, o documento em si, uma janela, ou um XMLHttpRequest.
+**- addEventListener() registra uma única espera de evento em um único alvo. O alvo do evento pode ser um único elemento em um documento, o documento em si, uma janela, ou um XMLHttpRequest.**
 
-Resumindo, o elemento <select> é usado para criar menus suspensos de opções em páginas da web, enquanto o método addEventListener() em JavaScript é usado para adicionar interatividade aos elementos HTML.
+## Resumindo, o elemento <select> é usado para criar menus suspensos de opções em páginas da web, enquanto o método addEventListener() em JavaScript é usado para adicionar interatividade aos elementos HTML.
 
 ## Fontes: 
 [addEventListener](https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener)  
