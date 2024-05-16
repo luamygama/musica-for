@@ -8,11 +8,21 @@ Este projeto consiste em implementar um laço de repetição **for** em JavaScri
 
 💻 **Explicação do Código:**
 
-**- O elemento HTML select (<select>) representa um controle que apresenta um menu de opções. As opções dentro do menu são representadas pelo elemento <option>, que podem ser agrupados por elementos <optgroup>. As opções podem ser pré-selecionadas para o usuário.**
+**- O elemento HTML select (`<select>`) representa um controle que apresenta um menu de opções. As opções dentro do menu são representadas pelo elemento `<option>`, que podem ser agrupados por elementos `<optgroup>`. As opções podem ser pré-selecionadas para o usuário.**
 
-**- addEventListener() registra uma única espera de evento em um único alvo. O alvo do evento pode ser um único elemento em um documento, o documento em si, uma janela, ou um XMLHttpRequest.**
+**- `addEventListener()` registra uma única espera de evento em um único alvo. O alvo do evento pode ser um único elemento em um documento, o documento em si, uma janela, ou um XMLHttpRequest.**
 
-## Resumindo, o elemento <select> é usado para criar menus suspensos de opções em páginas da web, enquanto o método addEventListener() em JavaScript é usado para adicionar interatividade aos elementos HTML.
+---
+
+Este código HTML define uma página da web com um formulário interativo. O formulário inclui um menu suspenso que oferece uma variedade de opções de tipos de música, desde R&B até Rock. O usuário pode selecionar múltiplas opções de música no menu suspenso.
+
+Além disso, há um botão no formulário com o texto "Quantos foram selecionados?". Quando o usuário clica neste botão, um script JavaScript é acionado. Esse script conta quantas opções de música foram selecionadas pelo usuário no menu suspenso e exibe esse número em uma caixa de diálogo de alerta.
+
+Em suma, este código proporciona uma experiência interativa ao usuário, permitindo-lhe selecionar várias opções de música e visualizar quantas foram selecionadas de uma só vez através de um simples clique de botão. 
+
+## Resumindo, o elemento `<select>` é usado para criar menus suspensos de opções em páginas da web, enquanto o método `addEventListener()` em JavaScript é usado para adicionar interatividade aos elementos HTML.
+
+
 
 ## Fontes: 
 [addEventListener](https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener)  
